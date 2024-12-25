@@ -4,4 +4,6 @@
 
 .text{
     background-image:url('src/imgho/imh.png') ;
+    height: 500px;
+    width: 400px;
 }
